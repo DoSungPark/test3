@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>BasketPuzzle</title>
+		<description>Stylish Jekyll Theme</description>
+		<link>/</link>
+		<atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>＠About BasketPuzzle</title>
+				<description>&lt;h2 id=&quot;problem-identification-and-analysis&quot;&gt;Problem Identification and Analysis&lt;/h2&gt;
+&lt;p&gt;In modern marketing, analyzing the patterns of products that consumers place in their shopping carts is a crucial task. To achieve this, it is essential to understand consumer consumption patterns and identify which products are frequently purchased together.
+Therefore, the goal of this project is to analyze consumer shopping cart patterns to determine which product combinations lead to successful transactions, ultimately establishing an effective marketing strategy.
+Furthermore, to differentiate our project from similar existing studies, we plan to segment consumers into retail and wholesale categories based on their purchase history and implement an algorithm that recommends customized package products tailored to each group.
+This approach is expected to provide more valuable insights for real-world business strategies.&lt;/p&gt;
+
+&lt;h2 id=&quot;project-objectives&quot;&gt;Project Objectives&lt;/h2&gt;
+&lt;p&gt;The objective of BasketPuzzle is to analyze consumer purchase histories to discover patterns among products and represent these insights as quantified data. We aim to establish an API pipeline and visualize the analysis results as charts on the web for easy user access. Through this process, sellers can develop more effective marketing strategies and improve customer satisfaction, while consumers will enjoy a better shopping experience with personalized recommendations.&lt;/p&gt;
+
+&lt;h2 id=&quot;key-features&quot;&gt;Key Features&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;Visualize shopping cart data through charts&lt;/li&gt;
+  &lt;li&gt;Provide a shopping trend list chart&lt;/li&gt;
+  &lt;li&gt;Product search function&lt;/li&gt;
+  &lt;li&gt;Quantify purchase ratios for segmented customers (retail, wholesale)&lt;/li&gt;
+  &lt;li&gt;Analyze and recommend related products based on purchase history&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;development-tools-and-languages&quot;&gt;Development Tools and Languages&lt;/h2&gt;
+&lt;p&gt;The shopping data analysis will be conducted in a Python-based Jupyter Notebook environment. Python libraries such as Pandas, NumPy, and Matplotlib will be used for data analysis, preprocessing, and computation.
+Additionally, we will use Apriori or FP-Growth for association rule learning, as well as the K-Means algorithm for customer segmentation.
+Finally, the back-end API will be built using Flask, and the analysis results will be visualized on the web using JavaScript, React, and Chart.js.
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;a class=&quot;btn btn-default&quot; href=&quot;https://github.com/BasketPuzzle/BasketPuzzle-FE&quot;&gt;Check Our Github&lt;/a&gt;&lt;/p&gt;
+</description>
+				<pubDate>Fri, 29 Nov 2024 00:00:00 +0900</pubDate>
+				<link>/general/notice/2024/11/29/Main-copy.html</link>
+				<guid isPermaLink="true">/general/notice/2024/11/29/Main-copy.html</guid>
+			</item>
+		
+			<item>
+				<title>＠Mission statement</title>
+				<description>&lt;p&gt;Our mission is to analyze consumer purchase histories to discover patterns between products and represent these insights as quantified data. 
+We aim to establish an API pipeline and visualize the results as charts on the web for user access. 
+Through this process, sellers will be able to develop more effective marketing strategies and enhance customer satisfaction. 
+Additionally, consumers (both retail and wholesale buyers) will enjoy a better shopping experience with personalized recommendations.
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</description>
+				<pubDate>Thu, 28 Nov 2024 00:00:00 +0900</pubDate>
+				<link>/general/notice/2024/11/28/mission.html</link>
+				<guid isPermaLink="true">/general/notice/2024/11/28/mission.html</guid>
+			</item>
+		
+	</channel>
+</rss>
